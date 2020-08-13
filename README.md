@@ -9,3 +9,7 @@
 ### 2. Signature & Verification
 
 > Based on: [https://medium.com/flawless-app-stories/ios-security-tutorial-part-2-c481036170ca](https://medium.com/flawless-app-stories/ios-security-tutorial-part-2-c481036170ca)
+
+### 3. Certificate Pinning
+
+> Based on: [https://infinum.com/the-capsized-eight/ssl-pinning-revisited](https://infinum.com/the-capsized-eight/ssl-pinning-revisited)
